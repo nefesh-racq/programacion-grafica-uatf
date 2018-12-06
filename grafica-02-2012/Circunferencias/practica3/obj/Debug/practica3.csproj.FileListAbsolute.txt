@@ -1,0 +1,31 @@
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\bin\Debug\practica3.exe
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\bin\Debug\practica3.pdb
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\practica3.Form1.resources
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\practica3.Properties.Resources.resources
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\practica3.csproj.GenerateResource.Cache
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\practica3.exe
+C:\Users\user12-13\Documents\Visual Studio 2008\Projects\practica3\practica3\obj\Debug\practica3.pdb
+H:\practica3\practica3\obj\Debug\practica3.exe
+H:\practica3\practica3\obj\Debug\practica3.pdb
+H:\INF-737\practica3\practica3\obj\Debug\practica3.exe
+H:\INF-737\practica3\practica3\obj\Debug\practica3.pdb
+H:\INF-737\laboratorio2\practica3\obj\Debug\practica3.exe
+H:\INF-737\laboratorio2\practica3\obj\Debug\practica3.pdb
+H:\INF-737\laboratorio2\practica3\obj\Debug\ResolveAssemblyReference.cache
+H:\INF-737\laboratorio2\practica3\obj\Debug\practica3.Form1.resources
+H:\INF-737\laboratorio2\practica3\obj\Debug\practica3.Properties.Resources.resources
+H:\INF-737\laboratorio2\practica3\obj\Debug\practica3.csproj.GenerateResource.Cache
+H:\INF-737\laboratorio2\practica3\bin\Debug\practica3.exe
+H:\INF-737\laboratorio2\practica3\bin\Debug\practica3.pdb
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\practica3.exe
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\practica3.pdb
+C:\Users\user12-11\Desktop\laboratorio2\practica3\bin\Debug\practica3.exe
+C:\Users\user12-11\Desktop\laboratorio2\practica3\bin\Debug\practica3.pdb
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\practica3.Form1.resources
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\practica3.Properties.Resources.resources
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\ResGen.read.1.tlog
+C:\Users\user12-11\Desktop\laboratorio2\practica3\obj\Debug\ResGen.write.1.tlog
+I:\Circunferencias\practica3\obj\Debug\practica3.exe
+I:\Circunferencias\practica3\obj\Debug\practica3.pdb

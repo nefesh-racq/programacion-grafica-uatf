@@ -1,0 +1,16 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\bin\Debug\TareaN1c.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\bin\Debug\TareaN1c.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\TareaN1c.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\TareaN1c.Properties.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\TareaN1c.csproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\TareaN1c.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\TareaN1c\obj\Debug\TareaN1c.pdb
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\TareaN1c.exe
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\TareaN1c.pdb
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\bin\Debug\TareaN1c.exe
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\bin\Debug\TareaN1c.pdb
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\ResolveAssemblyReference.cache
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\TareaN1c.Form1.resources
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\TareaN1c.Properties.Resources.resources
+D:\Ra\INF-737Aux\TareaN1\TareaN1c\TareaN1c\obj\Debug\TareaN1c.csproj.GenerateResource.Cache

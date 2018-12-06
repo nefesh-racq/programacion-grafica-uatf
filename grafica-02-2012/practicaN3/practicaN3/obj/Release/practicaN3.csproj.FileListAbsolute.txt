@@ -1,0 +1,8 @@
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\bin\Release\practicaN3.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\bin\Release\practicaN3.pdb
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\ResolveAssemblyReference.cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\practicaN3.Form1.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\practicaN3.Properties.Resources.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\practicaN3.csproj.GenerateResource.Cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\practicaN3.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN3\practicaN3\obj\Release\practicaN3.pdb

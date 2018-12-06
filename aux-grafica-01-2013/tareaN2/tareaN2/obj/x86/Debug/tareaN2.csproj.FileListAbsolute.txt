@@ -1,0 +1,9 @@
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\bin\Debug\tareaN2.exe
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\bin\Debug\tareaN2.pdb
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\tareaN2.Form1.resources
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\tareaN2.Properties.Resources.resources
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\tareaN2.exe
+D:\Ra\INF-737Aux\CSharp2010OpenGl\tareaN2\tareaN2\obj\x86\Debug\tareaN2.pdb

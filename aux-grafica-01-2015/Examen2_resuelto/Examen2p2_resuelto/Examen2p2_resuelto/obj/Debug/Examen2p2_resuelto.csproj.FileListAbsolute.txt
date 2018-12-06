@@ -1,0 +1,9 @@
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\bin\Debug\Examen2p2_resuelto.exe.config
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\bin\Debug\Examen2p2_resuelto.exe
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\bin\Debug\Examen2p2_resuelto.pdb
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.csprojResolveAssemblyReference.cache
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.Form1.resources
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.Properties.Resources.resources
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.csproj.GenerateResource.Cache
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.exe
+D:\workspace\inf-737_1_2015\Examen2_resuelto\Examen2p2_resuelto\Examen2p2_resuelto\obj\Debug\Examen2p2_resuelto.pdb

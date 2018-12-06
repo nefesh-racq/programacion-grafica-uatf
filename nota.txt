@@ -1,0 +1,8 @@
+algunos programas en csharp y opengl
+instalar taoframework y agregar referencia para que funcionen
+
+herramientas
+
+visual estudio 2010 - 2012
+taoframework
+

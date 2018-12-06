@@ -1,0 +1,16 @@
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.exe
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.pdb
+G:\Grafica\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.exe
+G:\Grafica\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.pdb
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.csprojResolveAssemblyReference.cache
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.Form1.resources
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.Properties.Resources.resources
+G:\Grafica\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.csproj.GenerateResource.Cache
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.exe
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.pdb
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.exe
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\bin\Debug\Laboratorio7.pdb
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.csprojResolveAssemblyReference.cache
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.Form1.resources
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.Properties.Resources.resources
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio7\Laboratorio7\obj\Debug\Laboratorio7.csproj.GenerateResource.Cache

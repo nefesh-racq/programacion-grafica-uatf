@@ -1,0 +1,10 @@
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.exe
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.pdb
+G:\Grafica\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe
+G:\Grafica\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.pdb
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csprojResolveAssemblyReference.cache
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.Form1.resources
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.Properties.Resources.resources
+G:\Grafica\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csproj.GenerateResource.Cache
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.exe
+D:\carrera\SEMESTRE1-2014\INF737G2\Lab\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.pdb

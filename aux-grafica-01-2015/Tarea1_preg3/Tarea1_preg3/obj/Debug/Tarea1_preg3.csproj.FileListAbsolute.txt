@@ -1,0 +1,9 @@
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\bin\Debug\Tarea1_preg3.exe.config
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.csprojResolveAssemblyReference.cache
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.Form1.resources
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.Properties.Resources.resources
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.csproj.GenerateResource.Cache
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\bin\Debug\Tarea1_preg3.exe
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\bin\Debug\Tarea1_preg3.pdb
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.exe
+D:\workspace\inf-737_1_2015\Tarea1_preg3\Tarea1_preg3\obj\Debug\Tarea1_preg3.pdb

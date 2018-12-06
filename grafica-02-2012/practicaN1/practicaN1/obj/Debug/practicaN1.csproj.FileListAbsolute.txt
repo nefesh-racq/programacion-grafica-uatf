@@ -1,0 +1,8 @@
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\ResolveAssemblyReference.cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\practicaN1.Form1.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\practicaN1.Properties.Resources.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\practicaN1.csproj.GenerateResource.Cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\bin\Debug\practicaN1.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\bin\Debug\practicaN1.pdb
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\practicaN1.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\practicaN1\practicaN1\obj\Debug\practicaN1.pdb

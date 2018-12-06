@@ -1,0 +1,8 @@
+G:\Circunferencias\Backup\practica3\bin\Debug\practica3.exe
+G:\Circunferencias\Backup\practica3\bin\Debug\practica3.pdb
+G:\Circunferencias\Backup\practica3\obj\Debug\ResolveAssemblyReference.cache
+G:\Circunferencias\Backup\practica3\obj\Debug\practica3.Form1.resources
+G:\Circunferencias\Backup\practica3\obj\Debug\practica3.Properties.Resources.resources
+G:\Circunferencias\Backup\practica3\obj\Debug\practica3.csproj.GenerateResource.Cache
+G:\Circunferencias\Backup\practica3\obj\Debug\practica3.exe
+G:\Circunferencias\Backup\practica3\obj\Debug\practica3.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="practica3">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\user12-11\Desktop\laboratorio2\practica3.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\user12-11\Desktop\laboratorio2\practica3.suo">
+</Property><Property Name="Date" Value="martes, 18 de septiembre de 2012">
+</Property><Property Name="Time" Value="16:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="practica3.sln" Description="La copia C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="practica3.suo" Description="La copia C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\practica3.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\practica3.csproj">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Color.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Color.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Form1.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Program.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Form1.resx">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\user12-11\Desktop\laboratorio2\Backup\practica3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\practica3.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="practica3" Source="practica3\practica3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="practica3.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="practica3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="practica3" Source="practica3\practica3.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

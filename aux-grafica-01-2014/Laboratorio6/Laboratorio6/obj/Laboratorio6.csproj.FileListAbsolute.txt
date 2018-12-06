@@ -1,0 +1,8 @@
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\bin\Debug\Laboratorio6.exe
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\bin\Debug\Laboratorio6.pdb
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\ResolveAssemblyReference.cache
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.Form1.resources
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.Properties.Resources.resources
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.csproj.GenerateResource.Cache
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.exe
+D:\Docencia\Semestre01-2014\INF737\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.pdb

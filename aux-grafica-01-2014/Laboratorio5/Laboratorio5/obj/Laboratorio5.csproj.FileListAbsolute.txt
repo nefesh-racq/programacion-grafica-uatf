@@ -1,0 +1,8 @@
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.exe
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\bin\Debug\Laboratorio5.pdb
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\ResolveAssemblyReference.cache
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.Form1.resources
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.Properties.Resources.resources
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.csproj.GenerateResource.Cache
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.exe
+D:\Docencia\Semestre01-2014\INF737\Laboratorio5\Laboratorio5\obj\Debug\Laboratorio5.pdb

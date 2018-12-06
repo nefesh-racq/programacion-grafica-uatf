@@ -1,0 +1,8 @@
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\bin\Debug\Tarea3_preg3.exe.config
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\bin\Debug\Tarea3_preg3.exe
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\bin\Debug\Tarea3_preg3.pdb
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\obj\Debug\Tarea3_preg3.Form1.resources
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\obj\Debug\Tarea3_preg3.Properties.Resources.resources
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\obj\Debug\Tarea3_preg3.csproj.GenerateResource.Cache
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\obj\Debug\Tarea3_preg3.exe
+D:\workspace\inf737\Tarea3_preg3\Tarea3_preg3\obj\Debug\Tarea3_preg3.pdb

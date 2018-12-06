@@ -1,0 +1,9 @@
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\bin\Debug\examen_resuelto_p1.exe.config
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\bin\Debug\examen_resuelto_p1.exe
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\bin\Debug\examen_resuelto_p1.pdb
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.csprojResolveAssemblyReference.cache
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.Form1.resources
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.Properties.Resources.resources
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.csproj.GenerateResource.Cache
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.exe
+D:\workspace\inf737\examen_resuelto_p1\examen_resuelto_p1\obj\Debug\examen_resuelto_p1.pdb

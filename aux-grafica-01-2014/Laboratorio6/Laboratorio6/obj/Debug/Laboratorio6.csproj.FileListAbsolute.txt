@@ -1,0 +1,8 @@
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.exe
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.pdb
+G:\Grafica\Laboratorio6\Laboratorio6\bin\Debug\Laboratorio6.exe
+G:\Grafica\Laboratorio6\Laboratorio6\bin\Debug\Laboratorio6.pdb
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.csprojResolveAssemblyReference.cache
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.Form1.resources
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.Properties.Resources.resources
+G:\Grafica\Laboratorio6\Laboratorio6\obj\Debug\Laboratorio6.csproj.GenerateResource.Cache

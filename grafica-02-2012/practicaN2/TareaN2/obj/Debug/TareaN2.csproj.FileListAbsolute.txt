@@ -1,0 +1,8 @@
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\bin\Debug\TareaN2.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\bin\Debug\TareaN2.pdb
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\ResolveAssemblyReference.cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\TareaN2.Form1.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\TareaN2.Properties.Resources.resources
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\TareaN2.csproj.GenerateResource.Cache
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\TareaN2.exe
+D:\Ra\MATERIAS-2-2012\inf-737\tareas\TareaN2\TareaN2\obj\Debug\TareaN2.pdb

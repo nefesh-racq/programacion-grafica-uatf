@@ -1,0 +1,8 @@
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\bin\Debug\tarea4_preg2.exe.config
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\bin\Debug\tarea4_preg2.exe
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\bin\Debug\tarea4_preg2.pdb
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\obj\Debug\tarea4_preg2.Form1.resources
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\obj\Debug\tarea4_preg2.Properties.Resources.resources
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\obj\Debug\tarea4_preg2.csproj.GenerateResource.Cache
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\obj\Debug\tarea4_preg2.exe
+D:\workspace\inf-737_1_2015\tarea4_preg2\tarea4_preg2\obj\Debug\tarea4_preg2.pdb
